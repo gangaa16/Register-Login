@@ -1,0 +1,10 @@
+.btn:hover {
+    /* Define the styles you want to apply when hovering */
+    background-color:#c6ecd9 /* Change the background color on hover */
+    /* You can add more styles like changing text color, adding shadow, etc. */
+  }
+.btn{
+    background-color:#53c68c
+    
+
+  }
